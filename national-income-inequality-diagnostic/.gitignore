@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Data (optional: uncomment if you don't want to push raw data)
+# data/raw/
+
+# Environment
+.env
+.venv
